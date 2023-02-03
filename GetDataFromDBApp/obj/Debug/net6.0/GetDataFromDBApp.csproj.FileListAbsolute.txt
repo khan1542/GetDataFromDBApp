@@ -1,0 +1,15 @@
+C:\Users\ME\Desktop\Диплом\GetDataFromDBApp\GetDataFromDBApp\GetDataFromDBApp\bin\Debug\net6.0\GetDataFromDBApp.exe
+C:\Users\ME\Desktop\Диплом\GetDataFromDBApp\GetDataFromDBApp\GetDataFromDBApp\bin\Debug\net6.0\GetDataFromDBApp.deps.json
+C:\Users\ME\Desktop\Диплом\GetDataFromDBApp\GetDataFromDBApp\GetDataFromDBApp\bin\Debug\net6.0\GetDataFromDBApp.runtimeconfig.json
+C:\Users\ME\Desktop\Диплом\GetDataFromDBApp\GetDataFromDBApp\GetDataFromDBApp\bin\Debug\net6.0\GetDataFromDBApp.dll
+C:\Users\ME\Desktop\Диплом\GetDataFromDBApp\GetDataFromDBApp\GetDataFromDBApp\bin\Debug\net6.0\GetDataFromDBApp.pdb
+C:\Users\ME\Desktop\Диплом\GetDataFromDBApp\GetDataFromDBApp\GetDataFromDBApp\obj\Debug\net6.0\GetDataFromDBApp.csproj.AssemblyReference.cache
+C:\Users\ME\Desktop\Диплом\GetDataFromDBApp\GetDataFromDBApp\GetDataFromDBApp\obj\Debug\net6.0\GetDataFromDBApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ME\Desktop\Диплом\GetDataFromDBApp\GetDataFromDBApp\GetDataFromDBApp\obj\Debug\net6.0\GetDataFromDBApp.AssemblyInfoInputs.cache
+C:\Users\ME\Desktop\Диплом\GetDataFromDBApp\GetDataFromDBApp\GetDataFromDBApp\obj\Debug\net6.0\GetDataFromDBApp.AssemblyInfo.cs
+C:\Users\ME\Desktop\Диплом\GetDataFromDBApp\GetDataFromDBApp\GetDataFromDBApp\obj\Debug\net6.0\GetDataFromDBApp.csproj.CoreCompileInputs.cache
+C:\Users\ME\Desktop\Диплом\GetDataFromDBApp\GetDataFromDBApp\GetDataFromDBApp\obj\Debug\net6.0\GetDataFromDBApp.dll
+C:\Users\ME\Desktop\Диплом\GetDataFromDBApp\GetDataFromDBApp\GetDataFromDBApp\obj\Debug\net6.0\refint\GetDataFromDBApp.dll
+C:\Users\ME\Desktop\Диплом\GetDataFromDBApp\GetDataFromDBApp\GetDataFromDBApp\obj\Debug\net6.0\GetDataFromDBApp.pdb
+C:\Users\ME\Desktop\Диплом\GetDataFromDBApp\GetDataFromDBApp\GetDataFromDBApp\obj\Debug\net6.0\GetDataFromDBApp.genruntimeconfig.cache
+C:\Users\ME\Desktop\Диплом\GetDataFromDBApp\GetDataFromDBApp\GetDataFromDBApp\obj\Debug\net6.0\ref\GetDataFromDBApp.dll
